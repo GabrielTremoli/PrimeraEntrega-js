@@ -18,7 +18,7 @@ function jugarTragamonedas() {
         const aceptar = confirm(mensaje);
 
         if (!aceptar) {
-            alert("Gracias por jugar. ¡Hasta la próxima!👋");
+            alert("Gracias por jugar. ¡Hasta la próxima!");
             break;
         }
 
